@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nora-Kasiem
 - 👀 I’m interested in reading and quiet time
-- 🌱 I’m currently learning computer science in university and data analysis courses
-- 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me n.qasim1412@gmail.com
+- 🌱 I’m a Masters Student majoring in Information Security and Artificial Intelligence.
+- 💞️ I’m looking to collaborate on Security & AI projects.
+- 📫 How to reach me n.qasim1412@gmail.com or no.abdelhady@nu.edu.eg
 
 <!---
 Nora-Kasiem/Nora-Kasiem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
